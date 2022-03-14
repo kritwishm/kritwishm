@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Kritwish Mondal an IIT Kgp graduate
 - 👀 I’m interested in Data Science and Engineering
 - 🌱 I’m currently working as a Founding Member @ timelyAI
-- 📫 How to reach me kritwish@timelyai.com
+- 📫 Reach me at kritwish@timelyai.com
 
 <!---
 kritwishm/kritwishm is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
