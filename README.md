@@ -1,7 +1,4 @@
-- 👋 IIT Kgp graduate
-- 👀 Data Science and Engineering Enthusiast
-- 🌱 Working as a Founding Member @ timelyAI
-- 📫 Reach out to me at kritwish@timelyai.com
+Shaping timelyAI 🚀
 
 <!---
 kritwishm/kritwishm is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
